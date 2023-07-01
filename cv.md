@@ -1,4 +1,4 @@
-![Viktor Zaporozhets photo](https://github.com/Cempak91/rsschool-cv/blob/gh-pages/Photo.jpg).
+![Viktor Zaporozhets photo][my photo].
 
 #  Viktor Zaporozhets.
 
@@ -26,4 +26,6 @@ function multiply(a, b){
   +  *Courses:* [JavaScript/Front-end. Stage 0](https://wearecommunity.io/events/js-stage0-rs-2023q2)
 
 ## English:
-  А1 
+  A1
+
+[my photo]: https://github.com/Cempak91/rsschool-cv/raw/gh-pages/images/Photo.png
