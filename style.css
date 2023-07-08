@@ -67,10 +67,6 @@
     }
 
   .footer {
-    display: flex;
-    flex-direction:row;
-    justify-content: space-between;
-    align-items: center;
     background-color:cadetblue;
     }
 
@@ -85,9 +81,13 @@
   }
   
   .footer-container{
-    position: relative;
     display: flex;
     justify-content: space-between;
-    align-items: center;
     background-color:cadetblue;
+    min-width: 1440px;
+    align-items: center;
+    justify-content: flex-start;
     }
+  .contact-in-footer{
+    padding: 0 30px;
+  }
